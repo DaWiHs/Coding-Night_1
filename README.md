@@ -1,5 +1,5 @@
 # Unity_Coding-Night--1
- A game made througth single night as school Coding Night event with classmate collaboration.
+ Also known as "Freakin' Swingin'", a game made througth single night as school Coding Night event with classmate collaboration.
 
  Project created on 26.10.2019, with collaboration classmate Piotr S., the topic was "2 players", so we decided to make a coop swinging game. It is heavily inspired by published game "Heave Ho". The event took time on night of 25-26.10.2019, in which we and ~7 more teams was supposed to make a game around the topic of "2 players", turned out our was the only coop oriented in the event. Local companies sent their representatives to grade our works, in which we placed 3rd. 
 
